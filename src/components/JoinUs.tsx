@@ -1,5 +1,5 @@
 import React from 'react';
-import { Navbar, Container, Form, Button } from 'react-bootstrap';
+import { Container, Form, Button } from 'react-bootstrap';
 import '../components/css/header.css';
 
 export function JoinUs() {
