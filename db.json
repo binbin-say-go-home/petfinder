@@ -1,0 +1,138 @@
+{
+  "adoptions": [
+    {
+      "firstName": "21312",
+      "middleName": "3123",
+      "lastName": "213123",
+      "hasFencedYard": true,
+      "hasChildren": true,
+      "hasOtherPets": true,
+      "phoneNumber": "",
+      "email": "213213@ewfibqwd.com",
+      "aboutSelf": "qweqw",
+      "id": 1
+    },
+    {
+      "firstName": "3wqeqw",
+      "middleName": "qweqwe",
+      "lastName": "weqeqw",
+      "hasFencedYard": true,
+      "hasChildren": true,
+      "hasOtherPets": true,
+      "phoneNumber": "3333-3333",
+      "email": "email@domain.com",
+      "aboutSelf": "",
+      "id": 2
+    },
+    {
+      "firstName": "21312",
+      "middleName": "3123",
+      "lastName": "213123",
+      "hasFencedYard": false,
+      "hasChildren": false,
+      "hasOtherPets": false,
+      "phoneNumber": "",
+      "email": "213213@ewfibqwd.com",
+      "aboutSelf": "",
+      "id": 3
+    }
+  ],
+  "pets": [
+    {
+      "id": 1,
+      "name": "Carl",
+      "animalType": "dog",
+      "age": 2,
+      "description": "Meet Carl, an affectionate male dog with a sleek caramel and white coat. This medium-sized charmer is not only handsome but also incredibly friendly, adoring both adults and children. Carl is smart, having mastered basic commands, and is ready to fill your home with joy, love, and tail-wagging happiness. Consider adopting him today!",
+      "adopted": false,
+      "image": "dog1.jpg",
+      "breed": "Labrador Retriever",
+      "isBoy": true,
+      "isAdopted": false
+    },
+    {
+      "id": 2,
+      "name": "Andrew",
+      "animalType": "dog",
+      "age": 4,
+      "description": "Meet Andrew, a lovable male Dachshund in search of his forever home. With his distinctive long body and affectionate demeanor, Andrew is a delightful companion. This small-sized pup is not only charming but also adaptable and ready to bring joy and warmth into your life. Consider adopting Andrew for a loyal and loving companion.",
+      "adopted": false,
+      "image": "dog2.jpg",
+      "breed": "Dachshund",
+      "isBoy": true,
+      "isAdopted": false
+    },
+    {
+      "id": 3,
+      "name": "Charlie",
+      "animalType": "dog",
+      "age": 3,
+      "description": "Introducing Charlie, a striking male Siberian Husky ready for adoption. With his captivating blue eyes and thick double coat, Charlie is a breathtaking companion. Energetic, friendly, and outgoing, he's an ideal match for an active family. Bring home the joy of Charlie's playful spirit and discover the love of a Siberian Husky. Adopt today!",
+      "adopted": false,
+      "image": "dog3.jpg",
+      "breed": "Siberian Husky",
+      "isBoy": true,
+      "isAdopted": false
+    },
+    {
+      "id": 4,
+      "name": "Lucy",
+      "animalType": "dog",
+      "age": 1,
+      "description": "Meet Lucy, a petite and charming female Chihuahua seeking her forever home. With her expressive eyes and tiny frame, Lucy is an adorable companion. Bold, alert, and fiercely loyal, she'll steal your heart with her big personality. Consider adopting Lucy for a loving and devoted addition to your family.",
+      "adopted": false,
+      "image": "dog4.jpg",
+      "breed": "Chihuahua",
+      "isBoy": false,
+      "isAdopted": false
+    },
+    {
+      "id": 5,
+      "name": "Simba",
+      "animalType": "cat",
+      "age": 5,
+      "description": "Meet Simba, a charismatic male Calico cat in search of a loving home. With his unique mix of colors and affectionate nature, Simba is ready to bring warmth and joy into your life. Adopt this charming feline today!",
+      "adopted": false,
+      "image": "cat1.jpg",
+      "breed": "Calico",
+      "isBoy": true,
+      "isAdopted": false
+    },
+    {
+      "id": 6,
+      "name": "Mimi",
+      "animalType": "cat",
+      "age": 3,
+      "description": "Meet Mimi, an elegant male British Shorthair cat searching for a forever home. With his plush coat and charming personality, Mimi is ready to grace your life with affection and companionship. Adopt today!",
+      "adopted": false,
+      "image": "cat2.jpg",
+      "breed": "British Shorthair",
+      "isBoy": true,
+      "isAdopted": false
+    },
+    {
+      "id": 7,
+      "name": "Dora",
+      "animalType": "cat",
+      "age": 2,
+      "description": "Meet Dora, a graceful female Siamese cat seeking a loving home. With her sleek coat and striking blue almond-shaped eyes, Dora exudes elegance. Affectionate and sociable, she'll gladly be your constant companion. Consider adopting Dora for a sophisticated feline friend and a lifetime of purrs.",
+      "adopted": false,
+      "image": "cat3.jpg",
+      "breed": "Siamese",
+      "isBoy": false,
+      "isAdopted": false
+    },
+    {
+      "id": 8,
+      "name": "Luna",
+      "animalType": "cat",
+      "age": 4,
+      "description": "Meet Luna, a captivating female Tabby cat in search of her forever home. With her striking markings and playful demeanor, Luna is a delightful companion. She loves to curl up for cozy cuddles and brings joy to every room. Adopt Luna today for a purr-fect addition to your family.",
+      "adopted": false,
+      "image": "cat4.jpg",
+      "breed": "Tabby",
+      "isBoy": false,
+      "isAdopted": false
+    }
+  ]
+}
